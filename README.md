@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT-Maniac who loves computer
 ----------------------------
 
-Started coding as a hobby since 2017. Dreaming and striving to be a Developer.
+Started coding as a hobby since 2017.  
+Dreaming and striving to be a Developer.  
 
 *   🌍  I'm based in Seoul, South Korea
 *   ✉️  You can contact me at [imrubi5555@gmail.com](mailto:imrubi5555@gmail.com)
