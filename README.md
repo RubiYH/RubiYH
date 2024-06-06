@@ -46,9 +46,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubiYH&theme=transparent" alt="" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RubiYH&theme=transparent&utcOffset=9" alt="" />
 </p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="" />
-</p>
 
 <p align="center" style="color: #d7d7d7;">
   $\it{\large{\color{#D7D7D7}Last\ update: 24/06/06}}$
