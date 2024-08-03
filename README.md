@@ -1,9 +1,5 @@
 
 <p align="center">
-<img src="https://i.imgur.com/pbKMhCC.png" alt="" width="200" />
-</p>
-
-<p align="center">
 <img src="https://camo.githubusercontent.com/5e7db7b3e85cae70afcbb89a825f85d9e093d7eb295026395e463ab22ca92688/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" alt="" width="25" align="top" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+Korean&pause=1000&color=F7F7F7&random=false&width=340&lines=%E2%A0%80Hello+:)+My+name+is+Rubi!;%E2%A0%80%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+:)+%EC%A0%9C+%EC%9D%B4%EB%A6%84%EC%9D%80+%EB%A3%A8%EB%B9%84%EC%9E%85%EB%8B%88%EB%8B%A4!!" />
@@ -20,7 +16,7 @@
 <p align="center">
 🎓 Majoring in Electronics & Computer Engineering.
 <p align="center">
-💼 Full-stack developer at a startup company.
+💼 Full-stack developer at an Edu-Tech startup company.
 </p>
 <p align="center">
 📩 Contact me via <a href="mailto:imrubi5555@gmail.com">email</a>.
